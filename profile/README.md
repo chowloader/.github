@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo_transparency.png" />
+  <img src="https://raw.githubusercontent.com/chowloader/.github/main/profile/assets/logo_transparency.png" />
   <br>
   <br>
   A Mod Loader for the ChowJS (Chowdren) version of the game OMORI.

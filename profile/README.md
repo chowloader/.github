@@ -33,7 +33,7 @@
     - [ ] Implement all stages
   - [ ] QoL improvement
     - [x] Builtin Console
-    - [ ] Easy patching of AOT Functions and Native Variables
+    - [ ] Easy patching of the AOT Functions and the Native Variables
   - [ ] Mod loading
   - [ ] Auto assets loading
 

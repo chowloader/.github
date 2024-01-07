@@ -25,7 +25,7 @@
   - [ ] Interpreting bytecode to [AST](https://github.com/estree/estree)
   - [ ] Rearranging the full chunk to their proper file
   - [ ] Converting [AST to JS](https://www.npmjs.com/package/astring)
-- [ ] Mod support
+- [ ] Mod loading support
   - [ ] [OneLoader](https://github.com/rphsoftware/OneLoader) compatibility
     - [ ] Implement ImageDiff2
     - [ ] Same mod structure
@@ -34,8 +34,7 @@
   - [ ] QoL improvement
     - [x] Builtin Console
     - [ ] Easy patching of the AOT Functions and the Native Variables
-  - [ ] Mod loading
-  - [ ] Auto assets loading
+    - [ ] Auto assets loading
 
 ## Support compatibility
 

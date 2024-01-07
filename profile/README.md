@@ -38,6 +38,6 @@
 
 ## Support compatibility
 
-- [x] [Switch](https://github.com/chowloader/nswitch-binary) (v1.0.3 only)
+- [x] [Switch](https://github.com/chowloader/nswitch-binary/releases/tag/patches) (v1.0.3 only)
 - [ ] PS4
 - [ ] PC Gamepass/Steam (maybe in the future?)

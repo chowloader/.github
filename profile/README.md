@@ -21,7 +21,7 @@
   - [ ] Ability to distinct the global object from the thread
   - [ ] Functional Worker class
 - [ ] Decompilation of the [QuickJS](https://github.com/bellard/quickjs/tree/b5e62895c619d4ffc75c9d822c8d85f1ece77e5b) bytecode file
-  - [x] Reading bytecode properly
+  - [ ] Reading bytecode properly
   - [ ] Interpreting bytecode to [AST](https://github.com/estree/estree)
   - [ ] Rearranging the full chunk to their proper file
   - [ ] Converting [AST to JS](https://www.npmjs.com/package/astring)

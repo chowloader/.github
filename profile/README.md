@@ -27,7 +27,7 @@
   - [ ] Converting [AST to JS](https://www.npmjs.com/package/astring)
 - [ ] Mod loading support
   - [ ] [OneLoader](https://github.com/rphsoftware/OneLoader) compatibility
-    - [ ] Implement ImageDiff2
+    - [x] Implement ImageDiff2
     - [ ] Same mod structure
     - [ ] Delta patching (JSON, YAML, ~~JS~~)
     - [ ] Implement all stages

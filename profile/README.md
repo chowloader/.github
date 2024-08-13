@@ -24,7 +24,7 @@
   - [ ] Reading bytecode properly
   - [ ] Interpreting bytecode to [AST](https://github.com/estree/estree)
   - [ ] Rearranging the full chunk to their proper file
-  - [ ] Converting [AST to JS](https://www.npmjs.com/package/astring)
+  - [x] Converting [AST to JS](https://www.npmjs.com/package/astring)
 - [ ] Mod loading support
   - [ ] [OneLoader](https://github.com/rphsoftware/OneLoader) compatibility
     - [x] Implement ImageDiff2
